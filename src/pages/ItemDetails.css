@@ -1,0 +1,17 @@
+.item-details header {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .item-details img {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    border-radius: 10px;
+  }
+  
+  .item-details main {
+    text-align: center;
+    padding: 20px;
+  }
+  

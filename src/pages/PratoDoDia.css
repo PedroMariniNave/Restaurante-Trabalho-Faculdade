@@ -1,0 +1,17 @@
+.prato-do-dia header {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .prato-do-dia img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    border-radius: 10px;
+  }
+  
+  .prato-do-dia .details {
+    text-align: center;
+    padding: 20px;
+  }
+  

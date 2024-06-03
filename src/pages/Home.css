@@ -1,0 +1,42 @@
+.home {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .home header {
+    margin-bottom: 40px;
+  }
+  
+  .categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .category-card {
+    text-align: center;
+    width: 200px;
+    margin: 20px;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .category-card img {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    border-radius: 10px;
+  }
+  
+  .dish-of-the-day {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .dish-of-the-day img {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    border-radius: 10px;
+  }
+  
